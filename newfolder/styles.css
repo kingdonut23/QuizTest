@@ -33,3 +33,16 @@ p{
     display: block;
     margin-top: 10px;
 }
+
+#ScoreColor {
+    font-family: sans-serif;
+    color: black
+
+}
+
+#ScoreColor:hover {
+    font-family: sans-serif;
+    color: white
+
+
+}
