@@ -200,3 +200,4 @@ function saveHighscore() {
   
   initialsEl.onkeyup = checkForEnter;
 
+
